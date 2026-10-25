@@ -64,5 +64,7 @@ sudo crontab -e
 
 
 جهت دسترسی به پنل آدرس زیر را در مرورگر وارد کنید : </br>
+http://<you_server_ip>:/record/live_monitor.php
+or
 https://<you_server_ip>:/record/live_monitor.php
 
