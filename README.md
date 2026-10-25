@@ -31,6 +31,7 @@ CREATE TABLE IF NOT EXISTS cdr_ratings (
 4- ایجاد دیتابیس لیست سیاه :</br>
 
 mysql -u root -p asterisk -e "
+
 CREATE TABLE IF NOT EXISTS \`blacklist\` (
   \`number\` VARCHAR(20) NOT NULL,
   \`description\` VARCHAR(50) DEFAULT NULL,
@@ -40,6 +41,7 @@ CREATE TABLE IF NOT EXISTS \`blacklist\` (
 5- ایجاد دیتابیس تمای از دست رفته:</br>
 
 mysql -u root -p asterisk -e "
+
 CREATE TABLE IF NOT EXISTS \`pbx_missed_followups\` (
   \`id\` INT AUTO_INCREMENT PRIMARY KEY,
   \`number\` VARCHAR(20) NOT NULL,
@@ -54,7 +56,9 @@ CREATE TABLE IF NOT EXISTS \`pbx_missed_followups\` (
 
 6-فایل apply_network.sh را به پوشه usr/local/bin منتقل کرده و در کامند دسترسی های زیر را به ان اعمال کنید :</br>
 sudo chmod +x /usr/local/bin/apply_network.sh
+
 </br>
+
 sudo /usr/local/bin/apply_network.sh
 
 مرحله ۲: تنظیم Cron Job در سرور</br>
