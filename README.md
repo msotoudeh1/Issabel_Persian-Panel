@@ -68,3 +68,32 @@ http://<you_server_ip>:/record/live_monitor.php
 or
 https://<you_server_ip>:/record/live_monitor.php
 
+<img width="1645" height="741" alt="image" src="https://github.com/user-attachments/assets/c3703d34-7c3b-4af8-bd27-0e5fb41c58eb" />
+
+<img width="1626" height="820" alt="image" src="https://github.com/user-attachments/assets/9a032cb7-2dd8-4e4a-a064-821f6e7eb8e7" />
+
+<img width="329" height="590" alt="image" src="https://github.com/user-attachments/assets/4c02b619-fffa-4474-abc5-941dd01bfcbd" />
+
+<img width="1640" height="696" alt="image" src="https://github.com/user-attachments/assets/2e4b763e-b558-479f-9c9f-73814a1535c8" />
+
+<img width="1650" height="742" alt="image" src="https://github.com/user-attachments/assets/454579d9-140f-4f63-b5a3-1e4db48d6dee" />
+
+<img width="1645" height="696" alt="image" src="https://github.com/user-attachments/assets/1e6ab820-231d-480b-acfe-c768298ba696" />
+
+<img width="1637" height="933" alt="image" src="https://github.com/user-attachments/assets/c5be7b4b-4b27-414e-b647-1de34f033493" />
+
+<img width="489" height="586" alt="image" src="https://github.com/user-attachments/assets/c1e0ae8a-4b71-4bcd-bea6-31b8152af547" />
+
+<img width="384" height="347" alt="image" src="https://github.com/user-attachments/assets/125d3d01-48e2-4975-9c42-e679a76a80d2" />
+
+<img width="1003" height="720" alt="image" src="https://github.com/user-attachments/assets/3d502e1f-4160-44da-9211-73d5ebde6dcd" />
+
+<img width="1635" height="847" alt="image" src="https://github.com/user-attachments/assets/9e900fca-73d6-4b7e-a5f3-c7dadb341310" />
+
+
+
+
+
+
+
+
