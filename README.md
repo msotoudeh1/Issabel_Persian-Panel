@@ -64,10 +64,9 @@ sudo crontab -e
 
 
 جهت دسترسی به پنل آدرس زیر را در مرورگر وارد کنید : </br>
-http://<you_server_ip>:/record/live_monitor.php
-or
 https://<you_server_ip>:/record/live_monitor.php
 
+</br>
 <img width="1645" height="741" alt="image" src="https://github.com/user-attachments/assets/c3703d34-7c3b-4af8-bd27-0e5fb41c58eb" />
 
 <img width="1626" height="820" alt="image" src="https://github.com/user-attachments/assets/9a032cb7-2dd8-4e4a-a064-821f6e7eb8e7" />
@@ -90,7 +89,10 @@ https://<you_server_ip>:/record/live_monitor.php
 
 <img width="1635" height="847" alt="image" src="https://github.com/user-attachments/assets/9e900fca-73d6-4b7e-a5f3-c7dadb341310" />
 
+<img width="1643" height="471" alt="image" src="https://github.com/user-attachments/assets/bbc72c87-3413-4622-9d91-a947183b7d3f" />
 
+
+<img width="1625" height="552" alt="image" src="https://github.com/user-attachments/assets/3d2ed25d-361d-4e03-a05a-2177cc1b0090" />
 
 
 
