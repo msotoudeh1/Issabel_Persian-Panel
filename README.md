@@ -62,8 +62,6 @@ CREATE TABLE IF NOT EXISTS \`pbx_missed_followups\` (
 
 sudo chmod +x /usr/local/bin/apply_network.sh
 
-</br>
-
 sudo /usr/local/bin/apply_network.sh
 
 مرحله ۲: تنظیم Cron Job در سرور</br>
@@ -75,10 +73,12 @@ sudo crontab -e
 
 
 
-جهت دسترسی به پنل آدرس زیر را در مرورگر وارد کنید : </br>
+جهت دسترسی به پنل آدرس زیر را در مرورگر وارد کنید : 
+
 https://<you_server_ip>:/record/live_monitor.php
 
-</br>
+
+
 <img width="1645" height="741" alt="image" src="https://github.com/user-attachments/assets/c3703d34-7c3b-4af8-bd27-0e5fb41c58eb" />
 
 <img width="1626" height="820" alt="image" src="https://github.com/user-attachments/assets/9a032cb7-2dd8-4e4a-a064-821f6e7eb8e7" />
