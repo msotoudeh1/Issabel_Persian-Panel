@@ -6,7 +6,8 @@
 در خط 232 و به جای عبارت login_password ، یک رمز عبور قوی جهت ورود به پنل و صفحه مذکور قرار دهید</br>
 
 
-3- دیتابیس های زیر را در ایزابل تعریف کنید :</br>
+3- دیتابیس های زیر را در ایزابل تعریف کنید :
+
 mysql -u root -pdatabase_password asteriskcdrdb
 
 CREATE TABLE IF NOT EXISTS cdr_ratings (
@@ -26,9 +27,11 @@ CREATE TABLE IF NOT EXISTS cdr_ratings (
     INDEX idx_avg (rating_avg)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-یه جای database_password رمز عبور دیتابیس خود را قرار دهید</br> 
+یه جای database_password رمز عبور دیتابیس خود را قرار دهید :
 
-4- ایجاد دیتابیس لیست سیاه :</br>
+
+4- ایجاد دیتابیس لیست سیاه :
+
 
 mysql -u root -p asterisk -e "
 
@@ -38,7 +41,8 @@ CREATE TABLE IF NOT EXISTS \`blacklist\` (
   PRIMARY KEY (\`number\`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;"
 
-5- ایجاد دیتابیس تمای از دست رفته:</br>
+5- ایجاد دیتابیس تمای از دست رفته:
+
 
 mysql -u root -p asterisk -e "
 
@@ -54,7 +58,8 @@ CREATE TABLE IF NOT EXISTS \`pbx_missed_followups\` (
 
 
 
-6-فایل apply_network.sh را به پوشه usr/local/bin منتقل کرده و در کامند دسترسی های زیر را به ان اعمال کنید :</br>
+6-فایل apply_network.sh را به پوشه usr/local/bin منتقل کرده و در کامند دسترسی های زیر را به ان اعمال کنید :
+
 sudo chmod +x /usr/local/bin/apply_network.sh
 
 </br>
