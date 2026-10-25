@@ -30,7 +30,8 @@ CREATE TABLE IF NOT EXISTS cdr_ratings (
 
 4- ایجاد دیتابیس لیست سیاه :</br>
 
-mysql -u root -p asterisk -e "CREATE TABLE IF NOT EXISTS \`blacklist\` (
+mysql -u root -p asterisk -e "
+CREATE TABLE IF NOT EXISTS \`blacklist\` (
   \`number\` VARCHAR(20) NOT NULL,
   \`description\` VARCHAR(50) DEFAULT NULL,
   PRIMARY KEY (\`number\`)
