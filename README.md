@@ -102,9 +102,6 @@ https://<you_server_ip>:/record/live_monitor.php
 
 <img width="1643" height="471" alt="image" src="https://github.com/user-attachments/assets/bbc72c87-3413-4622-9d91-a947183b7d3f" />
 
-
-<img width="1625" height="552" alt="image" src="https://github.com/user-attachments/assets/3d2ed25d-361d-4e03-a05a-2177cc1b0090" />
-
 <img width="427" height="299" alt="image" src="https://github.com/user-attachments/assets/b3b235d3-7e22-4443-a1df-969cb366a6b8" />
 
 
