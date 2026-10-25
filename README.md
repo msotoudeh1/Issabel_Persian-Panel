@@ -4,8 +4,7 @@
 در خط 113 به حای عبارت database_password ، رمز عبورد دیتابیس ایزابل خود را قرار دهید</br>
 در خط 442 نیز به جای عبارت database_password ، رمز عبور دیتابیس خود را قرار دهید</br>
 در خط 232 و به جای عبارت login_password ، یک رمز عبور قوی جهت ورود به پنل و صفحه مذکور قرار دهید</br>
-جهت دسترسی به پنل اردس زیر را در مرورگر وارد کنید : </br>
-https://<you_server_ip>:/record/live_monitor.php
+
 
 3- دیتابیس های زیر را در ایزابل تعریف کنید :</br>
 mysql -u root -pdatabase_password asteriskcdrdb
@@ -64,5 +63,6 @@ sudo crontab -e
 
 
 
-
+جهت دسترسی به پنل آدرس زیر را در مرورگر وارد کنید : </br>
+https://<you_server_ip>:/record/live_monitor.php
 
